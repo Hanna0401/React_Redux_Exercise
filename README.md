@@ -11,9 +11,6 @@ freeCodeCamp's Front End Libraries Projects
 1. Run  with `$ npm start`
 2. Now open [http://localhost:3000](http://localhost:3000).
 
-## Live Demo:
-https://codepen.io/rejaulkarim/full/vaewxo/
-
 ## Challenge Instructions
 * **Objective:** Build a [CodePen.io](https://codepen.io) app that is functionally similar to this: [https://codepen.io/freeCodeCamp/full/qRZeGZ](https://codepen.io/freeCodeCamp/full/qRZeGZ).
 
